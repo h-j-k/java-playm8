@@ -1,5 +1,4 @@
-java-playm8
-====
+# java-playm8
 
 A *tabula rasa* Java-8-friendly Maven project.
 
